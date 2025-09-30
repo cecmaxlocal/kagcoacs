@@ -1,0 +1,35 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <OutputType>Exe</OutputType>
+        <RootNamespace>kagcoacs</RootNamespace>
+        <TargetFramework>net9.0</TargetFramework>
+        <PublishAot>true</PublishAot>
+        <InvariantGlobalization>true</InvariantGlobalization>
+    </PropertyGroup>
+
+    <ItemGroup>
+      <Compile Include="matrix\cec\bin\dialog\current\heart\lives.cs" />
+      <Compile Include="matrix\cec\bin\dialog\current\local\down\down.cs" />
+      <Compile Include="matrix\cec\bin\dialog\current\local\up\up.cs" />
+      <Compile Include="matrix\cec\bin\dialog\current\ready\ActWrite.cs" />
+      <Compile Include="matrix\cec\bin\dialog\current\ready\IActWrite.cs" />
+      <Compile Include="matrix\cec\bin\dialog\current\side\call\dx.k.cs" />
+      <Compile Include="matrix\cec\bin\dialog\current\side\cashback\errSmiles.cs" />
+      <Compile Include="matrix\cec\bin\dialog\current\side\Data\sql.cs" />
+      <Compile Include="matrix\cec\bin\dialog\current\side\messages\dxk.cs" />
+      <Compile Include="matrix\cec\bin\dialog\current\write\ActWriteLives.cs" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <Reference Include="System.Private.CoreLib">
+        <HintPath>..\..\..\..\.dotnet\shared\Microsoft.NETCore.App\9.0.8\System.Private.CoreLib.dll</HintPath>
+      </Reference>
+    </ItemGroup>
+
+    <ItemGroup>
+      <Folder Include="images\" />
+      <Folder Include="matrix\cec\bin\dialog\current\side\error\" />
+    </ItemGroup>
+
+</Project>
