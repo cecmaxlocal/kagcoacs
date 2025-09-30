@@ -1,0 +1,6 @@
+{
+  "errors": [
+    { "msg": "User already exists with this email" },
+    { "msg": "Password is too short" }
+  ]
+}
