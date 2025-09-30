@@ -1,0 +1,29 @@
+Dell machines typically come with OEM (Original Equipment Manufacturer) licenses for software like Windows pre-installed. Here are key points about licensing on Dell machines:
+
+- **OEM Licenses:** The software license (e.g., Windows) that comes pre-installed on Dell PCs is usually an OEM license tied to that specific machine. It is non-transferable to other machines and typically valid only for the original hardware.
+
+- **Licensing Restrictions:**  
+  - If you reinstall the OS on the same Dell machine, the OEM license allows activation without needing additional license keys.  
+  - If you try to install the OEM software on a different machine, the license is invalid and will require a retail license key.  
+  - Significant hardware changes, like motherboard replacement, might require a new license.
+
+- **Support:** OEM licenses, including those on Dell machines, require the licensee (owner/user) to provide technical support for the software unless a separate support contract with Microsoft is purchased.
+
+- **License Management:** Dell offers tools such as Dell License Manager and Dell Digital Locker for managing software licenses and downloads associated with your Dell hardware.
+
+- **Software Delivery:** Some Dell software may come bundled with licenses, including system utilities and bundled applications, subject to their own EULAs.
+
+For detailed and official terms, Dell’s [End User License Agreement](https://www.dell.com/en-us/lp/legal/terms-of-sale-consumer-license-agreements) and support pages provide comprehensive information.
+
+If you need guidance on managing, transferring, or purchasing licenses for Dell machines, or specifics about software licensing models on Dell hardware, that can be provided too.[1][4][5]
+
+[1](https://www.dell.com/community/de/conversations/desktops-general-read-only/how-does-the-dell-in-built-licence-work/647f3e04f4ccf8a8de55bf33)
+[2](https://www.dell.com/support/kbdoc/en-us/000224397/per-core-per-user-per-device-and-rds-cals-in-a-nutshell)
+[3](https://www.dell.com/support/home/en-us?app=licenses)
+[4](https://www.dell.com/en-us/lp/legal/terms-of-sale-consumer-license-agreements)
+[5](https://www.dell.com/support/manuals/en-us/license-manager/dlm_1.7_user_guide/minimum-system-requirements?guid=guid-c3863e3c-2b04-4c4a-8e3f-0c71fff6344d&lang=en-us)
+[6](https://www.dell.com/support/contents/en-us/videos/videoplayer/windows-server-licensing-for-poweredge-servers/6361113653112)
+[7](https://www.dell.com/support/home/pt-br?app=licenses)
+[8](https://www.dell.com/en-us/lp/legal/art-software-license-agreements)
+[9](https://www.dell.com/support/contents/en-uk/videos/videoplayer/how-to-manage-software-licenses-and-subscriptions-in-dell-my-account/6372738247112)
+[10](https://www.dell.com/en-us/shopping/subscription-licenses)

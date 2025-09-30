@@ -1,0 +1,36 @@
+"IDE Coke" does not appear to be a known or official IDE product with a specific license. However, if the question relates to licensing for the standard and leading IDE for Visual Basic and .NET C# development—Microsoft Visual Studio—here is a summary:
+
+### Visual Studio Licensing Overview:
+- **Visual Studio Community Edition:**  
+  - Free for individual developers, students, open source projects, and small teams (up to 5 users).  
+  - Provides a full-featured IDE with support for Visual Basic and C#.  
+  - Licensed under its own Microsoft Community License Agreement.
+
+- **Visual Studio Professional and Enterprise Editions:**  
+  - Paid subscriptions with additional enterprise features, support, and services.  
+  - Licensed per user, either via monthly or annual subscriptions or perpetual licenses depending on purchase.  
+  - Requires purchase through Microsoft Store, volume licensing, or resellers.  
+
+- **Licensing Terms:**  
+  - Licenses are generally per user, allowing installation on multiple devices for the licensed user.  
+  - Visual Studio subscriptions include software, Azure DevOps access, and additional tools depending on the level (Professional or Enterprise).
+
+For a mixed Visual Basic and C# project, Visual Studio Community is usually sufficient unless advanced enterprise features or team scale require Professional or Enterprise.
+
+### Summary:
+- If "IDE Coke" is a reference to Visual Studio or a derivative IDE, it would fall under Visual Studio's licensing terms.  
+- Check [Visual Studio Licensing Whitepaper](https://visualstudio.microsoft.com/wp-content/uploads/2023/07/Visual-Studio-Licensing-Whitepaper-July2023.pdf) for detailed license info.  
+- For open-source or small team projects, Visual Studio Community Edition is free and powerful enough.
+
+If further clarification or specific license documents for a particular tool named "IDE Coke" are needed, additional details would be required. Otherwise, using Visual Studio 2022 under Microsoft’s licensing is standard for Visual Basic and .NET C# desktop development.[1][3]
+
+[1](https://visualstudio.microsoft.com/wp-content/uploads/2023/07/Visual-Studio-Licensing-Whitepaper-July2023.pdf)
+[2](https://visualstudio.microsoft.com/vs/pricing/?tab=paid-subscriptions)
+[3](https://visualstudio.microsoft.com/license-terms/)
+[4](https://licenseq.com/visual-studio-everything-you-need-to-know/)
+[5](https://visualstudio.microsoft.com/vs/compare/)
+[6](https://truesoft.italliance.uz/en/visual-studio-subscriptions-1/)
+[7](https://www.componentsource.com/product/microsoft-visual-studio-professional)
+[8](https://visualstudio.microsoft.com/subscriptions/)
+[9](https://www.cdw.com/product/microsoft-visual-studio-professional-2022-license-1-user/6796766)
+[10](https://www.componentsource.com/product/microsoft-visual-studio-enterprise/compatibilities)
