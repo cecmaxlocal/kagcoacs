@@ -9,7 +9,7 @@ public class Looks
 
 public abstract class SqlMaxBaseLives
 {
-    protected static bool RuleDeny;
+    protected static bool Rule;
     private protected static bool LivesNews { get; set; }
     public abstract bool Equals(Dx? other);
 }
@@ -18,7 +18,7 @@ public abstract class SqlMaxBaseLives
 public class Sql
 {
     public SqlMax SqlMinLives { get; } = new();
-    public static bool RuleDeny { get; set; }
+    public static bool Rule { get; set; }
     public static bool ExpAct { get; set; }
 }
 
